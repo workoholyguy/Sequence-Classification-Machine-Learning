@@ -51,7 +51,7 @@ To use this project, follow the steps below:
 
 ## How to run
 
-1. Download "olc_02.ipynb" and input_data into the same folder
+1. Download "olc_02_02.ipynb" and input_data into the same folder
 2. Open olc_02.ipynb in your code editor.
 3. Make sure you select correct file name "filename = 'input_data/hum_med_5.txt'" depending on which dataset you're willing to use.
 
