@@ -5,7 +5,8 @@ This Python project leverages the power of graph-based machine-learning techniqu
 ![overlap_graph_680](https://github.com/workoholyguy/Sequence-Classification-Machine-Learning/assets/95881196/676905fd-af14-4ff6-b7b9-4f482c6e6112)
 
 ![over_g_580](https://github.com/workoholyguy/Sequence-Classification-Machine-Learning/assets/95881196/ed4b06a7-8bac-4082-af22-d58f44e4192b)
-![over_g_480_2](https://github.com/workoholyg![h_o_gr_1K_250](https://github.com/workoholyguy/Sequence-Classification-Machine-Learning/assets/95881196/7f53e4e4-8cce-4b14-ac30-5e2abc10d95b)
+
+![over_g_480_2](https://github.com/workoholyguy/Sequence-Classification-Machine-Learning/assets/95881196/7f53e4e4-8cce-4b14-ac30-5e2abc10d95b)
 
 ![h_o_gr_1K_250](https://github.com/workoholyguy/Sequence-Classification-Machine-Learning/assets/95881196/1f5323e0-5ca0-4704-b693-ea5d709237ed)
 
