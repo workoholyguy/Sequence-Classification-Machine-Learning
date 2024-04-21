@@ -1,4 +1,4 @@
-# Sequence Classification with Graph-Based Features
+# Sequence Classification with Graph-Based Features (De-Bruijn Graphs, Overlap Graphs, Embedding, SVM )
 
 This Python project leverages the power of graph-based machine learning techniques to classify biological sequences. By converting sequences into k-mers, detecting overlaps, constructing an overlap graph, and employing Graph2Vec for embedding, the script enables effective classification with Support Vector Machines (SVM).
 
@@ -48,6 +48,12 @@ To use this project, follow the steps below:
 1. **Prepare Your Data**: Ensure your data is in a text file where each line contains a sequence followed by its label, separated by a tab.
 
 2. **Run the Script**: Use the script by specifying the input file and parameters for k-mer length and minimum overlap.
+
+## How to run
+
+1. Download "olc_02.ipynb" and input_data into the same folder
+2. Open olc_02.ipynb in your code editor.
+3. Make sure you select correct file name "filename = 'input_data/hum_med_5.txt'" depending on which dataset you're willing to use.
 
 ### Example
 
